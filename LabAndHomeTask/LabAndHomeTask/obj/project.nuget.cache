@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p71gf8VSAoE=",
+  "dgSpecHash": "WE/GjuQYDfg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\necef\\OneDrive\\İş masası\\LabAndHomeTask\\LabAndHomeTask\\LabAndHomeTask.csproj",
+  "projectFilePath": "C:\\Users\\necef\\OneDrive\\İş masası\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\LabAndHomeTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\necef\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\necef\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

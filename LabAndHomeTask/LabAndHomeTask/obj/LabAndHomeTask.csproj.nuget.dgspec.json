@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\necef\\OneDrive\\İş masası\\LabAndHomeTask\\LabAndHomeTask\\LabAndHomeTask.csproj": {}
+    "C:\\Users\\necef\\OneDrive\\İş masası\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\LabAndHomeTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\necef\\OneDrive\\İş masası\\LabAndHomeTask\\LabAndHomeTask\\LabAndHomeTask.csproj": {
+    "C:\\Users\\necef\\OneDrive\\İş masası\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\LabAndHomeTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\necef\\OneDrive\\İş masası\\LabAndHomeTask\\LabAndHomeTask\\LabAndHomeTask.csproj",
+        "projectUniqueName": "C:\\Users\\necef\\OneDrive\\İş masası\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\LabAndHomeTask.csproj",
         "projectName": "LabAndHomeTask",
-        "projectPath": "C:\\Users\\necef\\OneDrive\\İş masası\\LabAndHomeTask\\LabAndHomeTask\\LabAndHomeTask.csproj",
+        "projectPath": "C:\\Users\\necef\\OneDrive\\İş masası\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\LabAndHomeTask.csproj",
         "packagesPath": "C:\\Users\\necef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\necef\\OneDrive\\İş masası\\LabAndHomeTask\\LabAndHomeTask\\obj\\",
+        "outputPath": "C:\\Users\\necef\\OneDrive\\İş masası\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

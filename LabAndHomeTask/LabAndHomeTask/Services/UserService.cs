@@ -75,5 +75,10 @@ namespace LabAndHomeTask.Services
 
             }
         }
+
+        internal void Create(string username, string password)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

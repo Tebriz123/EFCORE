@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\",
+  "WorkspaceRootPath": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\managmentappilication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\managmentappilication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\managmentappilication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\services\\appproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\services\\appproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\dal\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\dal\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\migrations\\20250928143951_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\migrations\\20250928143951_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\models\\appproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\models\\appproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\labandhometask\\labandhometask\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\services\\appproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\services\\appproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\dal\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\dal\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\migrations\\20250928143951_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\migrations\\20250928143951_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\models\\appproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\models\\appproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\efcoremini\\labandhometask\\labandhometask\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71EEED18-0454-439C-BA52-69F42B6E1C6E}|LabAndHomeTask\\LabAndHomeTask.csproj|solutionrelative:labandhometask\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -68,35 +68,34 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ManagmentAppilication.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\ManagmentAppilication.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\ManagmentAppilication.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\ManagmentAppilication.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\ManagmentAppilication.cs*",
-              "RelativeToolTip": "LabAndHomeTask\\ManagmentAppilication.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAABAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\ManagmentAppilication.cs",
+              "RelativeToolTip": "LabAndHomeTask\\ManagmentAppilication.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T11:45:37.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Services\\OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Services\\OrderService.cs",
               "RelativeToolTip": "LabAndHomeTask\\Services\\OrderService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T16:01:00.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T16:01:00.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CompanyService.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Services\\CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Services\\CompanyService.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\Services\\CompanyService.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Services\\CompanyService.cs",
               "RelativeToolTip": "LabAndHomeTask\\Services\\CompanyService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwDkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,11 +104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Company.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Models\\Company.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Models\\Company.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\Models\\Company.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Models\\Company.cs",
               "RelativeToolTip": "LabAndHomeTask\\Models\\Company.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,11 +116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AppProductService.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Services\\AppProductService.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Services\\AppProductService.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\Services\\AppProductService.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Services\\AppProductService.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Services\\AppProductService.cs",
               "RelativeToolTip": "LabAndHomeTask\\Services\\AppProductService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAuwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,39 +129,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Services\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Services\\UserService.cs",
               "RelativeToolTip": "LabAndHomeTask\\Services\\UserService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAuwDkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T16:00:08.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AppDbContex.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\DAL\\AppDbContex.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\DAL\\AppDbContex.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\DAL\\AppDbContex.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\DAL\\AppDbContex.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\DAL\\AppDbContex.cs",
               "RelativeToolTip": "LabAndHomeTask\\DAL\\AppDbContex.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:15:52.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T15:15:52.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Program.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\Program.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Program.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Program.cs",
               "RelativeToolTip": "LabAndHomeTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T15:14:02.782Z",
               "EditorCaption": ""
@@ -171,9 +169,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Models\\Common\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\Models\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Models\\Common\\BaseEntity.cs",
               "RelativeToolTip": "LabAndHomeTask\\Models\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AppProduct.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Models\\AppProduct.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Models\\AppProduct.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\Models\\AppProduct.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Models\\AppProduct.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Models\\AppProduct.cs",
               "RelativeToolTip": "LabAndHomeTask\\Models\\AppProduct.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwBAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -193,35 +191,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Models\\User.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Models\\User.cs",
               "RelativeToolTip": "LabAndHomeTask\\Models\\User.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:32:34.831Z"
+              "WhenOpened": "2025-09-26T15:32:34.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Models\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Models\\Order.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Models\\Order.cs",
               "RelativeToolTip": "LabAndHomeTask\\Models\\Order.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:36:15.668Z"
+              "WhenOpened": "2025-09-26T15:36:15.668Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "20250928143951_initial.cs",
-              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Migrations\\20250928143951_initial.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Migrations\\20250928143951_initial.cs",
               "RelativeDocumentMoniker": "LabAndHomeTask\\Migrations\\20250928143951_initial.cs",
-              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\LabAndHomeTask\\LabAndHomeTask\\Migrations\\20250928143951_initial.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\EFCOREmini\\LabAndHomeTask\\LabAndHomeTask\\Migrations\\20250928143951_initial.cs",
               "RelativeToolTip": "LabAndHomeTask\\Migrations\\20250928143951_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
